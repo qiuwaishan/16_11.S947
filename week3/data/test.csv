@@ -1,8 +1,8 @@
-GID,Feature
-1,A
-2,C
-3,B
-4,A
-5,D
-6,C
-7,C
+GID,Feature,Wage
+1,A,10
+2,C,32
+3,B,87
+4,A,87
+5,D,98
+6,C,10
+7,C,32
